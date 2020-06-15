@@ -3,12 +3,12 @@
   <head>
     <title>Fake Instagram</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel='stylesheet' href='/css/style.css' />
+    <link rel='stylesheet' href='css/style.css' />
   </head>
   <body class="auth">
     <main class="container content-auth">
         <div id="banner">
-            <img src="/img/banner-login.png" alt="" srcset="">
+            <img src="img/banner-login.png" alt="" srcset="">
         </div>
         <div class="content">
             <form class="form-auth card" action="">
